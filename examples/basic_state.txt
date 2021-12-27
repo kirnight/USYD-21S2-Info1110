@@ -1,0 +1,8 @@
+width 900
+height 600
+score 0
+spaceship 450.0,300.0,90,0
+fuel 30
+asteroids_count 2
+bullets_count 0
+upcoming_asteroids_count 8
